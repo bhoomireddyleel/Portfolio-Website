@@ -3,7 +3,7 @@
 A simple and responsive portfolio website built using **HTML & CSS**, showcasing my skills, projects, and contact details.
 
 ## 🔗 Live Preview  
-[👉 View Portfolio](leelaportfolio.ccbp.tech)  
+[👉 View Portfolio](https://leelaportfolio.ccbp.tech/)  
 
 
 ## ✨ Features  
